@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "291238",
+      "name": "15天",
+      "font_class": "15tian",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "577404",
+      "name": "向右3-fill",
+      "font_class": "xiangyou3fill",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "1089338",
+      "name": "维修",
+      "font_class": "buoumaotubiao46",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "1902342",
+      "name": "7天",
+      "font_class": "tian",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "5696202",
+      "name": "坐标",
+      "font_class": "zuobiao",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "8197831",
+      "name": "学院-视频播放",
+      "font_class": "xueyuan-shipinbofang",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "9063070",
+      "name": "礼物",
+      "font_class": "icon-test",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "14080226",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18901549",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18901550",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
